@@ -8,11 +8,7 @@ This project classifies Bitcoin transactions by illicit probability using 165 an
 Kaggle/
 ├── README.md
 ├── e1156133.ipynb
-├── dataset/
-│   ├── train.csv
-│   ├── test.csv
-│   ├── txs_edgelist.csv
-│   └── sample_submission.csv
+├── requirements.txt
 ├── submission_16.csv
 └── submission_19.csv
 ```
